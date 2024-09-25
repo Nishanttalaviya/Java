@@ -5,6 +5,6 @@ public class ABC{
 	System.out.println("lastIndexOf(\B\)=");
 	System.out.println("s.lastIndexOf('B')=");
 	System.out.println("lastIndexOf("\AB\")=");
-	System.out.println("lastIndexOf("AB")="));
+	System.out.println("lastIndexOf("AB")=");
 	}
 }
